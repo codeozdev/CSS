@@ -1,0 +1,56 @@
+h1 {
+    color: rgb(199, 15, 15);
+    text-align: center;
+    font-size: 3rem;
+}
+
+h2 {
+    font-size: 2rem;
+
+    color: blueviolet;
+}
+
+h3 {
+    color: darkgoldenrod;
+}
+
+nav {
+    text-align: center;
+    font-size: 2rem;
+}
+
+nav ul li {
+    list-style: none;
+    display: inline-block;
+    margin: 5px;
+    position: relative;
+    right: 15px;
+}
+
+section {
+    text-align: center;
+}
+
+.tag {
+    color: red;
+    font-size: 30px;
+    margin: 15px 0;
+}
+
+img {
+    width: 520px;
+}
+
+section p {
+    font-size: 20px;
+    text-align: center;
+}
+
+section ul {
+    display: inline-block;
+    font-size: 18px;
+}
+
+.about{
+    font-size: 20px;
+}
